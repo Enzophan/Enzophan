@@ -8,7 +8,7 @@ I'm Nhan Phan a Full Stack Web Developer. I Spend most of time coding outstandin
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at **QUp World**.
+- 🔭 I’m currently working at **ONE Tech Stop**.
 <!-- - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: islempenywis@gmail.com.
